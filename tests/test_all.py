@@ -33,6 +33,7 @@ from bci_tester.data import OS_VERSION_ID
 from bci_tester.data import PCP_CONTAINERS
 from bci_tester.data import RUST_CONTAINERS
 
+
 CONTAINER_IMAGES = ALL_CONTAINERS
 
 #: go file to perform a GET request to suse.com and that panics if the request
